@@ -1,0 +1,6 @@
+@GroceryManagements.Api_HostAddress = http://localhost:5252
+
+GET {{GroceryManagements.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
