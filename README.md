@@ -1,6 +1,6 @@
 # GroceryManagements.Api
 
-A .NET 6 Web API project for managing grocery store items, orders, and customers.
+A .NET 8 Web API project for managing grocery store items, orders, and customers.
 
 ## 📦 Project Structure
 - **Grocery.BL** – Business Logic Layer (services, interfaces)
